@@ -48,7 +48,7 @@ function App() {
   const clearCart = () => setCart([]);
 
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <div className="App d-flex flex-column min-vh-100">
         <Navigation cartCount={cart.reduce((acc, item) => acc + item.quantity, 0)} />
         <Notification message="Item added to selection" show={false} onClose={() => { }} />
