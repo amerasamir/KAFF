@@ -1,0 +1,99 @@
+{
+    "nav": {
+        "home": "Home",
+        "menu": "Menu",
+        "story": "Our Story",
+        "contact": "Contact",
+        "signin": "Sign In"
+    },
+    "hero": {
+        "title": "KAF",
+        "subtitle": "The Pure Essence of Mastery.",
+        "cta_menu": "THE MENU",
+        "cta_story": "OUR STORY"
+    },
+    "menu": {
+        "title": "MENU",
+        "title_gold": "",
+        "subtitle": "CRAFTED WITH PRECISION",
+        "add_to_cart": "ADD TO CART",
+        "search_placeholder": "Search menu..."
+    },
+    "about": {
+        "tagline": "KAF",
+        "title": "OUR",
+        "title_gold": "STORY",
+        "philosophy_title": "THE PHILOSOPHY",
+        "p1": "At KAF, we don't just serve coffee; we curate an experience of pure refinement and artistic precision.",
+        "p2": "Founded in the heart of New Cairo, KAF was born from a singular vision: to elevate the daily coffee ritual into an act of luxury.",
+        "p3": "Every bean is ethically sourced, every roast is meticulously monitored, and every cup is a testament to the mastery of our baristas.",
+        "craft_title": "THE CRAFTSMANSHIP",
+        "craft_subtitle": "Precision in every drop, soul in every cup.",
+        "craft_p": "Our baristas are artisans, and the coffee machine is their brush. Every extraction is tuned to perfection, finding high-end notes to deliver an extraordinary sensory journey. We source only the top 1% of Arabica beans, roasted to highlight their unique origin profiles."
+    },
+    "contact": {
+        "tagline": "",
+        "title": "Connect",
+        "title_gold": "With Us",
+        "p_sub": "FOR INQUIRIES & RESERVATIONS",
+        "form_name": "NAME",
+        "form_email": "EMAIL",
+        "form_msg": "HOW MAY WE ASSIST YOU?",
+        "form_btn": "SEND MESSAGE"
+    },
+    "cart": {
+        "title": "YOUR",
+        "title_gold": "SELECTION",
+        "empty": "YOUR SELECTION IS EMPTY",
+        "cta_menu": "THE MENU",
+        "order_summary": "Order Summary",
+        "subtotal": "Subtotal",
+        "tax": "Service & Tax (5%)",
+        "total": "Total",
+        "checkout": "PROCEED TO MASTERY"
+    },
+    "checkout": {
+        "step1": "01 REVIEW",
+        "step2": "02 ADDRESS",
+        "step3": "03 MASTERY",
+        "review_title": "Review",
+        "review_gold": "Selection",
+        "cta_address": "CONTINUE TO ADDRESS",
+        "delivery_title": "Delivery",
+        "delivery_gold": "Details",
+        "district_label": "DISTRICT (NEW CAIRO)",
+        "select_district": "SELECT DISTRICT",
+        "street_label": "STREET / BUILDING DETAILS",
+        "street_placeholder": "E.G. VILLA 10, STREET 5",
+        "cta_back": "BACK",
+        "cta_place": "PLACE ORDER",
+        "success_title": "Order",
+        "success_gold": "Placed",
+        "success_p": "Thank you for choosing KAF. Our master baristas are now preparing your order with precision.",
+        "success_arrival": "Arrival to",
+        "success_cta": "RETURN TO KAF"
+    },
+    "auth": {
+        "welcome": "WELCOME BACK",
+        "join_club": "JOIN THE CLUB",
+        "signin_title": "Sign",
+        "signin_gold": "In",
+        "join_title": "Join",
+        "join_gold": "Us",
+        "form_name": "FULL NAME",
+        "form_name_placeholder": "ENTER YOUR NAME",
+        "form_email": "EMAIL ADDRESS",
+        "form_phone": "PHONE NUMBER",
+        "form_pass": "PASSWORD",
+        "btn_signin": "ACCESS ACCOUNT",
+        "btn_register": "CREATE ACCOUNT",
+        "footer_new": "NEW TO KAF?",
+        "footer_member": "PART OF THE INNER CIRCLE?",
+        "footer_link_reg": "REGISTER",
+        "footer_link_login": "LOG IN"
+    },
+    "footer": {
+        "location": "DISTRICT 5, NEW CAIRO",
+        "rights": "KAF CAFE. THE PURE ESSENCE OF MASTERY."
+    }
+}
